@@ -7,6 +7,10 @@
         <option value="$PROJECT_DIR$/genecits/pom.xml" />
         <option value="$PROJECT_DIR$/generics/pom.xml" />
         <option value="$PROJECT_DIR$/m2-enum/pom.xml" />
+        <option value="$PROJECT_DIR$/m3-lambda/pom.xml" />
+        <option value="$PROJECT_DIR$/m4-double-colon-operators/pom.xml" />
+        <option value="$PROJECT_DIR$/m5-comparetor-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/m6-stream/pom.xml" />
       </list>
     </option>
   </component>
